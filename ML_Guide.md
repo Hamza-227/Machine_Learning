@@ -393,3 +393,20 @@ Selecting the most useful features and removing the rest.
 | Feature Engineering | Creating new features to expose useful patterns |
 | Feature Selection | Picking the most useful features, dropping the rest |
 | Scikit-learn | The main Python library to implement all of the above practically |
+
+---
+
+## ⭐ Support This Repository
+
+If you found this notebook useful, consider:
+
+⭐ **Starring this repository** to support the project  
+🍴 **Forking it** if you want to experiment with the code  
+💬 **Sharing your feedback** or suggestions  
+🔗 **Following me on LinkedIn** for more Machine Learning, AI, Data Science, and Python content
+
+👉 **LinkedIn:** [Hamza Anjum](https://www.linkedin.com/in/hamza-anjum-459bba320/)
+
+If you're also learning Machine Learning, feel free to explore the other notebooks in this repository.
+
+**Keep learning. Keep building. 🚀**

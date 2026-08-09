@@ -302,4 +302,22 @@ For example, points arranged in concentric circles in 2D become linearly separab
 ---
 
 ### Note on the accompanying notebook
-The referenced `TitanicModels.ipynb` notebook applies exactly these five models (Logistic Regression, KNN, Naive Bayes, Decision Tree, SVM) to the Titanic survival dataset — preprocessing the data (encoding `sex`/`embarked`, filling missing `age`), splitting into train/test sets, then fitting and evaluating each model with `accuracy_score`, `confusion_matrix`, and `classification_report`, followed by cross-validation. This is the practical, hands-on counterpart to the theory in this document.
+The referenced `all_models.ipynb` notebook applies exactly these five models (Logistic Regression, KNN, Naive Bayes, Decision Tree, SVM) to the Titanic survival dataset — preprocessing the data (encoding `sex`/`embarked`, filling missing `age`), splitting into train/test sets, then fitting and evaluating each model with `accuracy_score`, `confusion_matrix`, and `classification_report`, followed by cross-validation. This is the practical, hands-on counterpart to the theory in this document.
+
+
+---
+
+## ⭐ Support This Repository
+
+If you found this notebook useful, consider:
+
+⭐ **Starring this repository** to support the project  
+🍴 **Forking it** if you want to experiment with the code  
+💬 **Sharing your feedback** or suggestions  
+🔗 **Following me on LinkedIn** for more Machine Learning, AI, Data Science, and Python content
+
+👉 **LinkedIn:** [Hamza Anjum](https://www.linkedin.com/in/hamza-anjum-459bba320/)
+
+If you're also learning Machine Learning, feel free to explore the other notebooks in this repository.
+
+**Keep learning. Keep building. 🚀**

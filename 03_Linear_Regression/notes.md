@@ -316,3 +316,21 @@ Both trained with `sklearn.linear_model.LinearRegression`.
 - Perform hyperparameter tuning (e.g. `GridSearchCV`) once regularized/non-linear models are introduced.
 - Add cross-validation instead of a single train-test split for more robust performance estimates.
 - Deploy the better-performing model (e.g. via Streamlit or Flask) as an interactive price/cost estimator.
+
+
+---
+
+## ⭐ Support This Repository
+
+If you found this notebook useful, consider:
+
+⭐ **Starring this repository** to support the project  
+🍴 **Forking it** if you want to experiment with the code  
+💬 **Sharing your feedback** or suggestions  
+🔗 **Following me on LinkedIn** for more Machine Learning, AI, Data Science, and Python content
+
+👉 **LinkedIn:** [Hamza Anjum](https://www.linkedin.com/in/hamza-anjum-459bba320/)
+
+If you're also learning Machine Learning, feel free to explore the other notebooks in this repository.
+
+**Keep learning. Keep building. 🚀**
