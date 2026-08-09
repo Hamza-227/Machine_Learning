@@ -1,17 +1,7 @@
 # 🚀 My Machine Learning Journey
 
-A structured, hands-on path from Data Analyst → AI Engineer.
+A structured, hands-on path for ML Engineer.
 This repo tracks everything I learn and build — cheatsheets, practice notebooks, and projects — organized by stage of the ML workflow.
-
----
-
-## 📌 About
-
-I'm a Data Analyst (SQL, Python, Power BI) transitioning into AI/ML and LLM engineering. This repo is my working log: notebooks, cheatsheets, and projects, built and documented as I go — from core ML fundamentals through deep learning, GenAI, and agentic AI.
-
-**Goal:** 30 projects, basic → industry-hiring level, documented publicly as I build.
-
---
 
 ## 🧭 Roadmap
 
