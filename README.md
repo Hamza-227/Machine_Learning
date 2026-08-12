@@ -3,20 +3,6 @@
 A structured, hands-on path for ML Engineer.
 This repo tracks everything I learn and build — cheatsheets, practice notebooks, and projects — organized by stage of the ML workflow.
 
-## 🧭 Roadmap
-
-- [ ] **Stage 1 — ML Fundamentals** *(current)*
-  Data cleaning → preprocessing → EDA → visualization → core ML algorithms (regression, classification, clustering, evaluation)
-- [ ] **Stage 2 — Deep Learning**
-  Neural networks, CNNs, RNNs, PyTorch/TensorFlow fundamentals
-- [ ] **Stage 3 — Generative AI**
-  LLMs, embeddings, RAG, fine-tuning, prompt engineering
-- [ ] **Stage 4 — Agentic AI**
-  Tool use, multi-agent systems, orchestration frameworks
-
-**Target:** 30 projects across all four stages, documented and shared publicly along the way.
-
-
 ## 🔗 Connect
 
 Following along or want to compare notes? I'm posting progress on LinkedIn as I build.
